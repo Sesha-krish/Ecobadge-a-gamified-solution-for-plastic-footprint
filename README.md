@@ -1,0 +1,1 @@
+This is an application frontend that we tried to build for the VIT Chennai THINKUP ideathon conducted on 12th september 2024. This was selected for the prefinals round. This application aims to track down people's plastic footprint and then give a gamified solution for each trend decline in plastic usage
